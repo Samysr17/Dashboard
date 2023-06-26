@@ -1,2 +1,2 @@
-const train=[];
-module.exports=train;
+const trains=[];
+module.exports=trains;
