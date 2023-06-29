@@ -11,3 +11,5 @@ app.use(cors({
 app.use(express.json());
 app.use(trainsrouter);
 module.exports=app;
+//traincsv to be uploaded
+//need to work with sreams
